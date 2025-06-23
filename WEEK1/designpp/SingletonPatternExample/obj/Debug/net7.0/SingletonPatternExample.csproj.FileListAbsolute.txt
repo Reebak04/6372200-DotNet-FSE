@@ -1,0 +1,14 @@
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\bin\Debug\net7.0\SingletonPatternExample.exe
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\bin\Debug\net7.0\SingletonPatternExample.deps.json
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\bin\Debug\net7.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\bin\Debug\net7.0\SingletonPatternExample.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\bin\Debug\net7.0\SingletonPatternExample.pdb
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\refint\SingletonPatternExample.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.pdb
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\designpp\SingletonPatternExample\obj\Debug\net7.0\ref\SingletonPatternExample.dll

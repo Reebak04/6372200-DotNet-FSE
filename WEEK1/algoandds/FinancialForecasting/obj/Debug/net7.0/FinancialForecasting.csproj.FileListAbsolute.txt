@@ -1,0 +1,14 @@
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\bin\Debug\net7.0\FinancialForecasting.exe
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\bin\Debug\net7.0\FinancialForecasting.deps.json
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\bin\Debug\net7.0\FinancialForecasting.runtimeconfig.json
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\bin\Debug\net7.0\FinancialForecasting.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\bin\Debug\net7.0\FinancialForecasting.pdb
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\refint\FinancialForecasting.dll
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.pdb
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\SEC\Documents\DOTNET_FSE\WEEK1\FinancialForecasting\obj\Debug\net7.0\ref\FinancialForecasting.dll

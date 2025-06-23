@@ -1,0 +1,14 @@
+C:\Users\SEC\EcommmerceSearchApp\bin\Debug\net7.0\EcommmerceSearchApp.exe
+C:\Users\SEC\EcommmerceSearchApp\bin\Debug\net7.0\EcommmerceSearchApp.deps.json
+C:\Users\SEC\EcommmerceSearchApp\bin\Debug\net7.0\EcommmerceSearchApp.runtimeconfig.json
+C:\Users\SEC\EcommmerceSearchApp\bin\Debug\net7.0\EcommmerceSearchApp.dll
+C:\Users\SEC\EcommmerceSearchApp\bin\Debug\net7.0\EcommmerceSearchApp.pdb
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.AssemblyInfoInputs.cache
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.AssemblyInfo.cs
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.dll
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\refint\EcommmerceSearchApp.dll
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.pdb
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\EcommmerceSearchApp.genruntimeconfig.cache
+C:\Users\SEC\EcommmerceSearchApp\obj\Debug\net7.0\ref\EcommmerceSearchApp.dll
